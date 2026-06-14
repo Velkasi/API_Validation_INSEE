@@ -1,0 +1,4 @@
+.env
+.venv
+__Pycache__
+examples/ta_photo.png
